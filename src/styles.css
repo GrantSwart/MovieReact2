@@ -72,6 +72,13 @@ small {
   background-color: rgba(0, 0, 0, 0.85);
 }
 
+/* style the cards */
+.card {
+  padding: 2rem 4rem;
+  border-radius: 10px;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.25);
+}
+
 /* WIDER DESKTOP VIEW _ MEDIA QUERY */
 @media (min-width: 786px) {
   .form {
