@@ -1,2 +1,2 @@
-# MovieReact2
+# MovieDB
 Created with CodeSandbox
